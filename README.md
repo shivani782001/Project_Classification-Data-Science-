@@ -1,2 +1,3 @@
 # Classification Project in Data Science
-The aim of the project is to predict whether clients of a retail banking institution will subscribe to a term deposit, based on their demographic information and call details, to optimize telephonic marketing campaigns for term deposit sales.
+
+Exploring the dataset. Then creating a models to predict whether a client will subscribe to a term deposit. Also making predictions for the clients in the test set which we can submit in the solution_checker.xlsx file to generate accuracy score.
